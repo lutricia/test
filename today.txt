@@ -1,1 +1,3 @@
 ff
+
+scp stlam35p /aa/6/firmch/syage
