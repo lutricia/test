@@ -21,3 +21,12 @@ git status
 vi mother
 git stash
 git stash list
+ll
+history
+git status
+git stash
+git stash list
+git stash apply
+git status
+git add .
+sudo su 
